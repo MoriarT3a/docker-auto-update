@@ -2,7 +2,7 @@
 
 Ein elegantes, interaktives Script zum automatischen Update aller laufenden Docker Compose Services mit einem modernen Full-Screen Interface.
 
-![Demo GIF Placeholder](https://via.placeholder.com/800x400/2E3440/D8DEE9?text=Docker+Auto-Update+Demo)
+![Demo Picture](https://github.com/MoriarT3a/docker-auto-update/blob/main/grafik.png)
 
 ## ✨ Features
 
